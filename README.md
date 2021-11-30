@@ -16,3 +16,8 @@ HOW TO PLAY
 3.Avoid falling rocks and shoot zombies
 
 4.Touch enemies or run out of bullets and its GAME OVER
+
+
+-----------------------------------------------
+Created by Chandrashekar Giridharan
+(PS. This was my first ever coding project, so ignore the weird parts of the code :p)

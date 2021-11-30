@@ -370,6 +370,7 @@ with open('highscore.txt','r+') as hs:
         highscore=int(hs.read())
     except:
         highscore=0
+
 # Game loop
 running = True
 start=True
@@ -496,5 +497,4 @@ while running:
     pygame.display.flip()
 pygame.quit()
 quit()
-#keep it no more than 500
 #THE END
